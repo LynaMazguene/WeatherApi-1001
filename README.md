@@ -1,1 +1,2 @@
-# WeatherApi-1001
+# meteoApi
+use openweather for getting weather info
